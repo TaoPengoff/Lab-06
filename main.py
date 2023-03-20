@@ -1,4 +1,4 @@
-# menu
+# menu display
 def print_menu():
     print('Menu\n------------- \n1. Encode\n2. Decode\n3. Quit\n')
     option = input('Please enter an option: ')
