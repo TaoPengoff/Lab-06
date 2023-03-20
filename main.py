@@ -17,14 +17,7 @@ def encode(password):
 
 # decode function
 def decode(password):
-    result = ''
-    for i in password:
-        current = int(i)
-        current += 3
-        if current > 9:
-            current -= 10
-        result += str(current)
-    return result
+    pass
 
 if __name__ == '__main__':
     # default
