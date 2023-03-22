@@ -1,3 +1,4 @@
+# Tao Peng
 # menu
 def print_menu():
     print('Menu\n------------- \n1. Encode\n2. Decode\n3. Quit\n')
